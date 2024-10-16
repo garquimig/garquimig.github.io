@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home 
+---
 title: indice
 layout: indice
 ---
