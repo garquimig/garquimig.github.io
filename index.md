@@ -1,9 +1,11 @@
 ---
 title: Home
 layout: home 
+nav_order:1
 ---
 title: indice
 layout: indice
+nav_order:2
 ---
 
 
