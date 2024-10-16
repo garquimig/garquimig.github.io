@@ -1,5 +1,5 @@
 ---
-title: Home
+title: VOLKSWAGEN GOLF 
 layout: home 
 ---
 
