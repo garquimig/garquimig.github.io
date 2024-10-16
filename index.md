@@ -14,6 +14,9 @@ El Volkswagen Golf es un automóvil de turismo del segmento C producido por el f
 
 El Golf se vende en versiones hatchback de tres y cinco puertas y familiar de cinco puertas, denominado Golf Variant en Europa y Jetta/Vento Variant en América, aunque hay otros modelos relacionados que se podrían considerar variantes, como el monovolumen Golf Plus y el descapotable Eos.
 
+
+![foto](https://fotos.quecochemecompro.com/volkswagen-golf-cabrio/13184.jpg?size=750x400)
+
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
