@@ -6,6 +6,8 @@ layout: home
 
 
 El Volkswagen Golf es un automóvil de turismo del segmento C producido por el fabricante alemán de automóviles Volkswagen desde 1974. Ha sido uno de los más vendidos en la historia con más de 30 millones de unidades fabricadas.
+
+
 ![foto](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_Golf_VIII_R_1X7A7089.jpg/250px-Volkswagen_Golf_VIII_R_1X7A7089.jpg)
 
 
