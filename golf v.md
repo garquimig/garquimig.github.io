@@ -1,4 +1,5 @@
 ---
 title: GOLF  V
-layout: home 
+layout: home
+nav_order: 6
 ---
