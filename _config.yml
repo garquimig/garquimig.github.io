@@ -5,3 +5,31 @@ url: https://garquimig.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+  
+theme: jekyll-theme-cayman
+
+# Configurar navegación en la barra lateral
+sidebar:
+  title: "Documentación"
+  nav:
+    - title: "Guía"
+      items:
+        - title: "Introducción"
+          url: /guia/introduccion
+        - title: "Instalación"
+          url: /guia/instalacion
+        - title: "Uso"
+          items:
+            - title: "Básico"
+              url: /guia/uso_basico
+            - title: "Avanzado"
+              url: /guia/uso_avanzado
+    - title: "API"
+      items:
+        - title: "Autenticación"
+          url: /api/autenticacion
+        - title: "Usuarios"
+          url: /api/usuarios
+        - title: "Productos"
+          url: /api/productos
