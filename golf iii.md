@@ -8,7 +8,7 @@ parent: MODELOS
 
 El Volkswagen Golf III, Golf Mk3 o Golf A3 se refiere a la tercera generación de este popular modelo de Volkswagen que estuvo en producción ininterrumpida desde 1991 hasta 1999. Esta generación se caracteriza por ser la primera de este modelo en incorporar equipamientos, tales como los airbags. Si bien, a nivel de mecánicas y bastidor es un pariente muy cercano del Golf II conservando dimensiones como la distancia entre ejes y las entrevías, su estética fue modificada al grado que hubo quienes temieron que Volkswagen estuviera arriesgándose mucho al modificar su modelo más importante, que después de dos generaciones tenía ya una imagen muy fuerte.
 
-
+![foto](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Golf_III_Blaumetallic_auf_dem_Hof.jpg/250px-Golf_III_Blaumetallic_auf_dem_Hof.jpg)
 
 La presentación mundial del Golf III se llevó a cabo en noviembre de 1991. Su oferta inicial contempló siete motores: estos van desde un 1.4 L 60 CV (44 kilovatios) y 55 CV (40 kilovatios) para el mercado austriaco), pasando por dos 1.8 L, uno de 75 CV (55 kilovatios), y el otro con 90 CV (66 kilovatios).
 
