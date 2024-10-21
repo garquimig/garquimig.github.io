@@ -13,3 +13,4 @@ Desde el primero hasta el último, todos tienen una esencia Golf y nosotros acab
 Todo comenzó el 29 de marzo de 1974 con el primer Golf Mk1 que salió de la línea de producción de Wolfsburgo. Llamado a ser el sustituto del coche del pueblo, el Volkswagen Beetle, supuso un gran paso adelante por concepto: se pasaba de motores traseros y propulsión a motores delanteros en posición transversal y tracción delantera, aunque otros modelos como Passat y Scirocco ya habían recurrido a la tracción frontal un año antes.
 
 
+![foto](https://img.remediosdigitales.com/28e830/vw-golf-7gen-motorpasion-8/1366_2000.jpg)
