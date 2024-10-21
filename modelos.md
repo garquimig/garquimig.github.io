@@ -14,3 +14,9 @@ Todo comenzó el 29 de marzo de 1974 con el primer Golf Mk1 que salió de la lí
 
 
 ![foto](https://img.remediosdigitales.com/28e830/vw-golf-7gen-motorpasion-8/1366_2000.jpg)
+
+
+
+Además, a lo largo de su historia el Volkswagen Golf ofrecería e incorporaría un sinfín de soluciones técnicas como la inyección directa, la turboalimentación, el ABS, el ESP, la tracción total, sistemas de propulsión híbrida o eléctrica, faros de xenón o full LED, carrocerías descapotable (desde 1980) o familiar, e incluso los sistemas de seguridad y asistencia más actuales (detector de ángulo muerto, control de crucero, Park Pilot, etc...).
+
+![foto](https://img.remediosdigitales.com/0d29c0/vw-golf-7gen-motorpasion-4/1366_2000.jpg)
